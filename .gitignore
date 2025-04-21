@@ -1,0 +1,19 @@
+# Python_
+_pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Node.js/React
+node_modules/
+build/
+package-lock.json
+yarn.lock
+
+# OS and Editors
+.DS_Store
+.vscode/
+*.swp
+*.swo
+*.idea/
